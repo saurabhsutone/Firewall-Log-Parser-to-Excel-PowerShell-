@@ -33,8 +33,8 @@ Install-Module -Name ImportExcel -Force -Scope CurrentUser
 
 1. **Download or Clone**
    ```bash
-   git clone https://github.com/your-username/waf-log-parser.git
-   cd waf-log-parser
+   git clone https://github.com/your-username/waf-log-parser.git](https://github.com/saurabhsutone/export-firewall-logs-to-excel
+   cd export-firewall-logs-to-excel
    ```
 
 2. **Edit the script** to match your file paths:
@@ -45,7 +45,7 @@ Install-Module -Name ImportExcel -Force -Scope CurrentUser
 
 3. **Run the script**:
    ```powershell
-   .\Export-WAFLogs.ps1
+   .\export-firewall-logs-to-excel.ps1
    ```
 
 4. **Done!** Excel file will be saved at the location you specified.
