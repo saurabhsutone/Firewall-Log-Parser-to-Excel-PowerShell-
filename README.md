@@ -48,7 +48,6 @@ The Excel file will be generated at the path specified in $outputFile.
 
 📋 Sample Output (Excel Columns)
 Date	Time	Src IP	Src Port	Src Country	Dst IP	Dst Port	Dst Country	HTTP Method	URL	Action	Message
-2025-06-11	00:17:24	172.226.212.47	12555	United States	25.85.28.4	443	United Kingdom	GET	https://dexterindex.com/search/...	blocked	SQL Injection (Extended)
 
 📂 License
 MIT License
